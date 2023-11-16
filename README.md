@@ -4,11 +4,10 @@
 Bueno Nosotros hicimos este repositorio con el propósito de ayudar a las personas que puedan armar su mBot y que siga sus líneas de camino.
 Los primero que debemos tener para armar un mBot son:
 -   Placa mCore.
-- ![enter image description here](https://www.google.com/url?sa=i&url=https://www3.gobiernodecanarias.org/medusa/ecoblog/rsuagued/mbot/&psig=AOvVaw1KfjcSIB2GgankT4v5y_6u&ust=1700223438531000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjhp4XAyIIDFQAAAAAdAAAAABAD)
+
 
 
 -   Sensor de luminosidad (en placa).
-![enter image description here](https://www.google.com/url?sa=i&url=https://juegosrobotica.es/sensores-en-mbot/&psig=AOvVaw31hxJyb74VU1TDQg0Q4lcN&ust=1700223506874000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD7gKrAyIIDFQAAAAAdAAAAABA7)
 
 
 
@@ -44,3 +43,4 @@ El módulo, está compuesto por una estructura compacta donde la fuente emisora 
 Si nuestro robot se desvía hacia la izquierda, es decir, el sensor de la parte izquierda queda fuera de la línea, el motor izquierdo irá a más velocidad que el derecho para rectificar la posición. Si por el contrario nuestro robot se desvía hacia la derecha quedando el sensor de la parte derecha fuera de la línea, el motor derecho irá a más velocidad que el izquierdo para volver al centro de la línea.
 
 Ya disponemos de la lógica a seguir para programar nuestro robot. Ahora podemos reflejar está discusión en una tabla de la verdad, para que nos resulte más fácil llevar a cabo el programa.
+![tabla](https://github.com/franvoncina/Seguidor-de-linea/blob/main/fotos/TABLA.png)
