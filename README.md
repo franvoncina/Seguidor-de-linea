@@ -1,4 +1,5 @@
-
+# Seguidor de lineas
+[foto](https://raw.githubusercontent.com/franvoncina/Seguidor-de-linea/main/mblock.programacion.jpg)
 Bueno Nosotros hicimos este repositorio con el propósito de ayudar a las personas que puedan armar su mBot y que siga sus líneas de camino.
 Los primero que debemos tener para armar un mBot son:
 -   Placa mCore.
