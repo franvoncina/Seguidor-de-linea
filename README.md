@@ -44,5 +44,5 @@ Si nuestro robot se desvía hacia la izquierda, es decir, el sensor de la parte 
 Ya disponemos de la lógica a seguir para programar nuestro robot. Ahora podemos reflejar está discusión en una tabla de la verdad, para que nos resulte más fácil llevar a cabo el programa.
 ![tabla](https://github.com/franvoncina/Seguidor-de-linea/blob/main/fotos/TABLA.png)
 
-![WhatsApp Video 2023-12-05 at 09 33 09 (1)](https://github.com/franvoncina/Seguidor-de-linea/assets/151030543/d9767f2b-e1ce-4588-88b9-c104c8bb8171)
+!(https://github.com/franvoncina/Seguidor-de-linea/assets/151030543/d9767f2b-e1ce-4588-88b9-c104c8bb8171)
 
